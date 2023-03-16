@@ -22,4 +22,4 @@ MODULO 2
 NOTE
 - per ora mappiamo il bianco/nero ovver 0-1 tra due frequenze limite, poi svilupperemo diversi suoi e cose.
 - sarebbe bellissimo fosse tutto pronto per il 9 giugno
-
+- stiamo copiando un po' quello che fa HERAKOI, un software già esistente che usa mediapipe per sonificare le immagini 2d caricate. dovrebbe essere open su github se vuoi dargli un'occhiata
