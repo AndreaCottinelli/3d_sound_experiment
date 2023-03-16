@@ -3,6 +3,10 @@ If you are here you, you know what we wanna do.
 
 
 In breve come deve funzionare il codice.
+L'idea di base è che una persona non vedente possa manipolare un modello stampato 3d di un cratere lunare così da percepirne con il tatto la distribuziona spaziale del modello. Lanciando lo script da una macchina dotata di webcam orientata indicativamente sul modello (dall'alto) è possibile associare delle mappe del modello in scale di grigi o con macchie di grigi che mappano diverse qualità fisiche del modello che possono essere espresse su una scala (età della superficie, densità di una sostanza chimica, albedo...) oppure a bin (regioni specifiche, composizione chimica principale...)
+
+Quindi grazie alla sonificazione del modello 3d, possiamo codificare potenzialmente infinite mappe, su un solo modello fisico.
+
 
 MODULO 1
 Usa le fotografie delle scacchiere per estrarre i parametri di distorsione della telecamera, va lanciato ogni volta che si usa una nuova telecamera.
